@@ -9,12 +9,12 @@ const games = [
     icon: '💋',
     description: 'Catch flying kisses to earn pecks!'
   },
-  { 
-    id: 'love-quiz', 
-    title: 'Love Quiz', 
-    icon: '💕',
-    description: 'Test our compatibility!'
-  },
+  // { 
+  //   id: 'love-quiz', 
+  //   title: 'Love Quiz', 
+  //   icon: '💕',
+  //   description: 'Test our compatibility!'
+  // },
   { 
     id: 'memory-match', 
     title: 'Memory Match', 

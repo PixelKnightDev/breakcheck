@@ -1,0 +1,32 @@
+const messages = [
+  {
+    id: 1,
+    date: "January 15, 2024",
+    message: "I've been thinking about you all day... 💕",
+    time: "2:30 PM"
+  },
+  {
+    id: 2,
+    date: "January 20, 2024",
+    message: "Remember our first date? I was so nervous but you made me feel so comfortable 🥺",
+    time: "7:45 PM"
+  },
+  {
+    id: 3,
+    date: "February 14, 2024",
+    message: "Happy Valentine's Day! You're the best thing that ever happened to me 💖",
+    time: "12:00 AM"
+  },
+  {
+    id: 4,
+    date: "March 10, 2024",
+    message: "I love how you laugh at my terrible jokes 😂 Never change! ✨",
+    time: "6:15 PM"
+  },
+  {
+    id: 5,
+    date: "March 25, 2024",
+    message: "Can't wait to make more memories with you... Will you go out with me? 🌹",
+    time: "9:30 PM"
+  }
+]
